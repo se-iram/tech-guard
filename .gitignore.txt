@@ -1,0 +1,14 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore system/IDE files
+.idea/
+
+# Ignore secrets
+.env
+
+# Ignore generated audio
+data/audio/
