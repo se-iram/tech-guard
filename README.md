@@ -107,30 +107,30 @@ streamlit run app.py
 ```
 ## Folder Structure
 TrackGuard/
-│
-├── app.py
-├── requirements.txt
-├── .env
-├── .gitignore
-│
-├── data/
-│   ├── tracks.json
-│   ├── progress.json
-│   └── audio/          ← generated voice files
-│
-├── pages/
-│   ├── add_track_page.py
-│   ├── focus_session_page.py
-│   ├── motivation_room_page.py
-│   └── track_history_page.py
-│
-└── utils/
-    ├── schedule_utils.py
-    ├── progress_utils.py
-    ├── motivation.py
-    ├── motivation_gemini.py
-    ├── motivation_voice.py
-    └── popup_reminder.py
+- │
+- ├── app.py
+- ├── requirements.txt
+- ├── .env
+- ├── .gitignore
+- │
+- ├── data/
+- │   ├── tracks.json
+- │   ├── progress.json
+- │   └── audio/          ← generated voice files
+- │
+- ├── pages/
+- │   ├── add_track_page.py
+- │   ├── focus_session_page.py
+- │   ├── motivation_room_page.py
+- │   └── track_history_page.py
+- │
+- └── utils/
+    - ├── schedule_utils.py
+    - ├── progress_utils.py
+    - ├── motivation.py
+    - ├── motivation_gemini.py
+    - ├── motivation_voice.py
+    - └── popup_reminder.py
 
 ---
 
