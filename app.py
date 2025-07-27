@@ -4,11 +4,11 @@ from dotenv import load_dotenv
 # load environment variables
 load_dotenv()
 
-# import all pages
-from pages.add_track import page_add_track
-from pages.focus_session import page_focus_session
-from pages.track_history import page_track_history
-from pages.motivation_room import page_motivation_room
+# import all techguard_pages
+from techguard_pages.add_track import page_add_track
+from techguard_pages.focus_session import page_focus_session
+from techguard_pages.track_history import page_track_history
+from techguard_pages.motivation_room import page_motivation_room
 
 # import utilities
 from utils.schedule_utils import load_all_tracks, get_upcoming_tracks
