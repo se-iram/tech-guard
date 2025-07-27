@@ -135,9 +135,10 @@ TrackGuard/
 ---
 
 ## Track Submitted To
-Push the Limits - Beyond Automation
+✨ Make Anything, But Make it YOU
 
-We went beyond task automation and built a vibe-based student support system where AI supports the emotional side of human learning, helping students regain confidence, clarity, and consistency.
+Built from the creator’s personal struggle with study motivation, TrackGuard is a soulful blend of AI and emotional support, helping students stay focused, uplifted, and true to their purpose.
+
 
 ---
 
