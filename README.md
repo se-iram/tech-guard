@@ -1,12 +1,12 @@
-# 🎯 TrackGuard — Stay Consistent. Stay Closer to Your Dream.
+# TrackGuard — Stay Consistent. Stay Closer to Your Dream.
 
 > A soulful AI-powered productivity & emotional support tool for students who want to stay consistent, focused, and emotionally grounded in their learning journey.
 
-![TrackGuard Banner](https://your-image-url-if-any.jpg)
+![Image](https://github.com/user-attachments/assets/24cffee3-ff34-4fab-9402-7f1c678bbc42)
 
 ---
 
-## 🧠 Why We Built This
+## Why We Built This
 
 In today’s world, AI can automate tasks — but what about the messy emotional moments students face while learning? The moments of doubt, distraction, burnout, and fear?
 
@@ -82,7 +82,10 @@ If a student feels lost:
 
 ## 📸 Screenshots
 
-_(You can add these later for Devpost & GitHub)_
+![Image](https://github.com/user-attachments/assets/cdac90f9-08c0-44ce-9c58-cf5408e2b184)
+![Image](https://github.com/user-attachments/assets/c47dd96b-e089-40d6-9405-32f07eb2726a)
+![Image](https://github.com/user-attachments/assets/24cffee3-ff34-4fab-9402-7f1c678bbc42)
+![Image](https://github.com/user-attachments/assets/3143050e-1b49-4df7-bce7-565fa884f56e)
 
 ---
 
